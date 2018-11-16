@@ -1,20 +1,21 @@
 {
-    "name":"http-request-try",
-    "version":"1.0.0",
-    "description":"Checking http post and get in insomnia",
-    "main":"app.js",
-    "scripts": {
-        "test":"echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-        "post",
-        "get",
-        "json"
-    ],
-    "author":"Sharthak Sharma Poudel",
-    "license": "MIT",
-    "dependencies": {
-        "body-parser": "^1.14.1",
-        "express": "^4.13.3"
-    }
+  "name": "http-request-try",
+  "version": "1.0.0",
+  "description": "Checking http post and get in insomnia",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "post",
+    "get",
+    "json"
+  ],
+  "author": "Sharthak Sharma Poudel",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "mongoose": "^5.3.12"
+  }
 }
